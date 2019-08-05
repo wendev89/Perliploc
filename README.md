@@ -4,6 +4,7 @@
 <br />
 <i>✔️ Linux </i>
 <br />
+<br />
 <b>INSTALL</b>
 <br />
 <br />
